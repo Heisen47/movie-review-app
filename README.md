@@ -1,3 +1,9 @@
+# what this application is -
+
+This is a movie review application that will feature a separation of concerns between the client code and the server code. By implementing this loosely coupled architecture, these two parts (implemented using different technologies) can evolve in parallel and independently from one another. 
+
+It uses react , Axios in front end . Mongo DB as the database and Java springboot microservices as its backend. It is a fullStack end to end application kind of like IMDB to review and rate any movie and watch its trailer from youtube.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
